@@ -1,0 +1,35 @@
+Load the Excel sheet using Power Query 
+
+transform the data 
+	1. separate the quantity type by creating a new column
+	2. create a  new column for date and time
+	3. create a new column to create the name of the month
+	4. create a new column to create the name of the day
+	5. create a new column for each hour of the day
+load the table to an Excel sheet and perform the below operations:
+Q1)
+1. find the hour that has the maximum no of orders happening using the pivot table and the max profit for the hour
+2. Create a line chart to show how sales vary to hours
+
+Q2) 
+1. Using power query sort the month and week of the Table to analysis.
+2. create a column chart to show the total bill per Week
+
+Q3)
+1. Using power query sort the month and week of the Table to analyze.
+2. create a column chart to show the total bill per Month
+
+Q4)
+1. Create a pie chart per product category and total bill
+
+Q5)
+1. create a product detail top 5 show using a column chart
+
+Q6) column chart for store location and transaction count
+
+Q7) Create a interactive Dashboard for all above charts
+
+
+
+
+ 
